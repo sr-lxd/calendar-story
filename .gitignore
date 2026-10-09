@@ -1,0 +1,21 @@
+# Local credentials and private configuration
+/config.ini
+/config.py
+.env
+.env.*
+
+# Backups and runtime data (may contain child birth dates or generated content)
+/backups/
+/cache/
+/logs/
+/__pycache__/
+*.log
+*.py[cod]
+*.bak
+app - 副本.py
+
+# Local Python environments and tooling
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
