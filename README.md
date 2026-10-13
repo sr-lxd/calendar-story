@@ -1,5 +1,11 @@
 # 日历故事
 
+<!-- en-intro -->
+**Calendar Story** — a locally-run Chinese calendar and family-life web app: almanac, history, weather, and age-based parenting tips for each day.
+<!-- /en-intro -->
+
+---
+
 日历故事是一个本地运行的中文日历与家庭生活网页应用。输入一个公历日期，页面会组合日历信息、历史文化内容、天气、生活建议和按儿童年龄阶段生成的育儿提示。
 
 应用运行在自己的电脑上，默认只监听 `127.0.0.1:5091`。本仓库公开的是源代码；GitHub 不会托管或自动运行这个 Flask 应用。
